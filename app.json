@@ -2,13 +2,13 @@
     "name": "Sedthon",
     "description": "User bot for telegram !",
     "stack": "container",
-    "repository": "https://github.com/perdark/per-sed",
+    "repository": "https://github.com/vvl1111/Z",
     "keywords": [
         "python",
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/perdark/per-sed",
+    "website": "https://github.com/vvl1111/Z",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
